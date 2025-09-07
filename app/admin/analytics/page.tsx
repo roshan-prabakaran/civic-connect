@@ -3,6 +3,8 @@ import { Button } from "@/components/ui/button"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import React, { createContext } from 'react';
+import r from 'react/cjs/react.production.min';
+
 import {
   BarChart,
   Bar,
